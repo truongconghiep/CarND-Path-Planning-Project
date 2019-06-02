@@ -7,7 +7,7 @@ Self-Driving Car Engineer Nanodegree Program
 ---
 ## Introduction
 
-In this project an algorithm for path planning will be implemented for an ego car in simulation environment to drive itself though a test track around 7 Km. Every 0.02 second the simulator provides car information and fusion information of other cars in the highway and take the generated trajactory to control the ego car.
+In this project an algorithm for path planning will be implemented for an ego car in simulation environment to drive itself though a test track around 7 Km. Every 0.02 second the simulator provides car information and fusion information of other cars in the highway and takes the generated trajactory to control the ego car.
 
 ## Code model
 
@@ -35,7 +35,7 @@ Next, from the generated behaviour including lane and speed [three waypoints](ht
 
 ## Result
 
-The path planning is working well on the test track, which drives the car though a long distance without collision with other vehicles or unexpected jerk.
+The path planning is working well on the test track, which drives the car through a long distance without collision with other vehicles or unexpected jerk.
 
 ![Screenshot](diagram/Result.jpg)
 
