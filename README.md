@@ -1,10 +1,8 @@
 # CarND-Path-Planning-Project
 Self-Driving Car Engineer Nanodegree Program
 ---
-[//]: # (Image References)
 
 
-[image1]: ./diagram/Path planning.png "Path planning"
 
 ---
 ## Introduction
@@ -13,9 +11,10 @@ In this project an algorithm for path planning will be implemented for an ego ca
 
 ## Code model
 
-The path planning algorithm is implemented in three steps: vehicle prediction, behavior generation and trajectory generation.
-
+The path planning algorithm is implemented in three steps: vehicle prediction, behavior generation and trajectory generation
 ![alt text][https://github.com/truongconghiep/CarND-Path-Planning-Project/blob/master/diagram/PathPlanning.jpg "Path planning"]
+
+
 
 
 
