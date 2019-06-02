@@ -15,7 +15,7 @@ In this project an algorithm for path planning will be implemented for an ego ca
 
 The path planning algorithm is implemented in three steps: vehicle prediction, behavior generation and trajectory generation.
 
-![alt text][./diagram/Path planning.jpg "Path planning"]
+![alt text][https://github.com/truongconghiep/CarND-Path-Planning-Project/blob/master/diagram/PathPlanning.jpg "Path planning"]
 
 
 
